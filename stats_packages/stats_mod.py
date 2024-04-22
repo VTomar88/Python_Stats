@@ -1,1 +1,5 @@
-# Initial commits 2
+def main():
+    pass
+
+if __name__ == '__mains__':
+    main()
